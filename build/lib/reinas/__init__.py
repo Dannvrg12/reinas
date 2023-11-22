@@ -9,4 +9,3 @@ def my_mul(x, y):
 
 def cuadrado(n):
     return n**2
-
