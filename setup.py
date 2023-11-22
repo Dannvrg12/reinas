@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='N Reinas',
+setup(name='reinas',
       version='0.1',
       description='A Python package for something',
-      url='https://github.com/Dannvrg12/N-Reinas',
+      url='https://github.com/Dannvrg12/reinas',
       author='Daniel Vargas',
       author_email='va401684@uaeh.edu.mx',
       license='MIT',
-      packages=['N-Reinas'],
+      packages=['reinas'],
       zip_safe=False)
