@@ -1,7 +1,0 @@
-setup.py
-reinas/__init__.py
-reinas.egg-info/PKG-INFO
-reinas.egg-info/SOURCES.txt
-reinas.egg-info/dependency_links.txt
-reinas.egg-info/not-zip-safe
-reinas.egg-info/top_level.txt
