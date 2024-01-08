@@ -18,6 +18,10 @@ The backtracking algorithm systematically explores the search space, trying out 
 
 ## Usage
 
-To use this solver, simply [insert instructions on how to run or integrate the project here].
+To use this solver, you can easily install the project package using the following code: ! pip install git+https://github.com/Dannvrg12/reinas. Once the package is installed, simply call the following functions: from reinas import es_seguro, from reinas import resolver_n_reinas_util, and from reinas import resolver_n_reinas. After calling these functions, you can use the following code as a starting point: n = i solutions = resolver_n_reinas(n) print(soluciones[0]).
+
+For a breakdown of all possible solutions for the given 'n', you can use the following loop:for solution in soluciones:
+    print(solution).
+    It's important to clarify that this code works efficiently and "quickly" in environments like Google Colab up to n=13. For n>=13, you may need to use a more powerful environment such as Visual Studio for up to n=16. Beyond that, the code will take a bit more time, and for a certain n, it may no longer work properly.
 
 Feel free to contribute, report issues, or suggest improvements!
