@@ -1,6 +1,6 @@
 # N-Queens Problem Solver
 
-![](http://github.com/Dannvrg12/reinas/blob/main/reinas/reinas.jpeg)
+![](https://github.com/Dannvrg12/reinas/blob/main/reinas/reinas.jpg)
 
 ## Purpose of the Project
 
